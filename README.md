@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+![Screenshot (15)](https://github.com/vasanvasab/NearMe/assets/143481226/e6fc8fee-f21c-495a-9ee3-2ebcbbe4eb6b)# Ex04 Places Around Me
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -50,6 +50,17 @@ Execute the programs and publish them.
 ## OUTPUT
 ![Alt text](image.jpeg)
 ![Alt text](image1.jpeg)
+![Screenshot (11)](https://github.com/vasanvasab/NearMe/assets/143481226/19022514-2aff-4cdf-866b-c8ba7c852e13)
+![Screenshot (12)](https://github.com/vasanvasab/NearMe/assets/143481226/bc53ecc4-16ea-49ea-afd4-18cd97cd9151)
+![Screenshot (13)](https://github.com/vasanvasab/NearMe/assets/143481226/048c4235-0b25-4931-b07f-a747643d08cf)
+![Screenshot (14)](https://github.com/vasanvasab/NearMe/assets/143481226/9fe07913-b297-4188-8575-afb0125a5d9b)
+![Screenshot (15)](https://github.com/vasanvasab/NearMe/assets/143481226/72a5ace4-e303-4ab5-a899-97e56b924e83)
+
+
+
+
+
+
 ## HTML VALIDATOR
 
 
