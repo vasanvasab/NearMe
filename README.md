@@ -48,7 +48,8 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![Screenshot (15)](https://github.com/vasanvasab/NearMe/assets/143481226/bea64239-9cc4-4017-9322-2603585ba34e)
+![image](https://github.com/vasanvasab/NearMe/assets/143481226/8f87a0d8-ce5b-4177-a8ab-6a5f5266f390)
+
 ![Screenshot (11)](https://github.com/vasanvasab/NearMe/assets/143481226/19022514-2aff-4cdf-866b-c8ba7c852e13)
 ![Screenshot (12)](https://github.com/vasanvasab/NearMe/assets/143481226/bc53ecc4-16ea-49ea-afd4-18cd97cd9151)
 ![Screenshot (13)](https://github.com/vasanvasab/NearMe/assets/143481226/048c4235-0b25-4931-b07f-a747643d08cf)
