@@ -2,6 +2,8 @@
 ## AIM
 To develop a website to display details about the places around my house.
 
+## DATE:1.11.2023
+
 ## DESIGN STEPS
 
 ### STEP 1
